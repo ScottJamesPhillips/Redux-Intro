@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 001",
-      "attention": false,
-      "date": "05-02-2021",
-      "tech": "Roxanne Luis"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 002 not posting",
+      "message": "test 001",
       "attention": true,
-      "date": "05-02-2021",
-      "tech": "Frasier Phillips"
+      "tech": "John Doe",
+      "date": "2022-03-10T11:29:35.258Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 003",
+      "message": "test002",
       "attention": false,
-      "date": "05-02-2021",
-      "tech": "Scott Phillips"
+      "tech": "John Smith",
+      "date": "2022-03-10T11:29:45.857Z",
+      "id": 2
+    },
+    {
+      "message": "test 003",
+      "attention": false,
+      "tech": "Karen Doe",
+      "date": "2022-03-10T11:29:57.025Z",
+      "id": 3
     }
   ],
   "techs": [
