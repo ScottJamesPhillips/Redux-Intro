@@ -1,20 +1,6 @@
 {
   "logs": [
     {
-      "message": "test 001",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2022-03-10T11:29:35.258Z",
-      "id": 1
-    },
-    {
-      "message": "test002",
-      "attention": false,
-      "tech": "John Smith",
-      "date": "2022-03-10T11:29:45.857Z",
-      "id": 2
-    },
-    {
       "message": "test 003",
       "attention": false,
       "tech": "Karen Doe",
